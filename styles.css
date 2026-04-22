@@ -10,7 +10,7 @@ main{
 }
 
 .header{
-background-image: url('images/backgroundOne.png');
+background-image: url('Images/backgroundOne.png');
 background-color: rgba(126, 4, 4, 0.7);
 min-height: 90px;
 position: sticky;
