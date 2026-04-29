@@ -10,7 +10,6 @@ main{
 }
 
 .header{
-background-image: url('Images/backgroundOne.png');
 background-color: rgba(126, 4, 4, 0.7);
 min-height: 90px;
 position: sticky;
@@ -20,6 +19,7 @@ width: 100%;
 color:white;
 background-size: cover; 
 background-blend-mode: multiply;
+background-image: url('images/backgroundOne.png');
 grid-row:1;
 }
 
